@@ -17,7 +17,7 @@ Gallicorpora propose de consolider et d'appliquer une chaîne de traitement pour
 
 ## Citer le projet 
 
-*Gallic(orpor)a: extraction, annotation et diffusion de l'information textuelle et visuelle en diachronie longue*, Benoît Sagot, Laurent Romary, Rachel Bawden, Pedro Javier Ortiz Suárez, Simon Gabay, Ariane Pinche, and Jean-Baptiste Camps.
+*Gallic(orpor)a: extraction, annotation et diffusion de l'information textuelle et visuelle en diachronie longue*, Benoît Sagot, Laurent Romary, Rachel Bawden, Pedro Javier Ortiz Suárez, Simon Gabay, Ariane Pinche, and Jean-Baptiste Camps,https://github.com/Gallicorpora/Gallicorpora.github.io.
 
 ## Infrastructure
 
