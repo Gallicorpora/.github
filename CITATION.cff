@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+authors:
+  - family-names: Sagot
+    given-names: Benoît
+    orcid: https://orcid.org/0000-0001-8957-9503
+  - family-names: Romary
+    given-names: Laurent
+    orcid: https://orcid.org/0000-0002-0756-0508
+  - family-names: Badwen
+    given-names: Rachel
+    orcid: https://orcid.org/0000-0001-9553-1768
+  - family-names: Ortiz Suárez
+    given-names: Pedro
+    orcid: https://orcid.org/0000-0003-0343-8852
+  - family-names: Gabay
+    given-names: Simon
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Pinche
+    given-names: Ariane
+    orcid: https://orcid.org/0000-0002-7843-5050
+- family-names: Camps
+    given-names: Jean-Baptiste
+    orcid: https://orcid.org/0000-0003-0385-7037
+
+title: "Gallic(orpor)a: extraction, annotation et diffusion de l'information textuelle et visuelle en diachronie longue"
+date-released: 2022
+url: "Gallicorpora.github.io"
+identifiers:
+  - type: doi
+    value: 'zenodo'
