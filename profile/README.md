@@ -2,7 +2,7 @@
 
 ## Projet
 
-Gallicorpora propose de consolider et d'appliquer une chaîne de traitement pour les documents anciens de Gallica en diachronie longue, des premiers manuscrits français aux imprimés révolutionnaires. Au-delà de la simple extraction de texte en masse, nous améliorerons les jeux de données d'entraînement pour l'apprentissage machine, les outils et les modèles déjà existants pour l'extraction, l'annotation et la diffusion de données richement annotées provenant des collections de la Bibliothèque nationale de France (BnF).
+Gallic(orpor)a propose de consolider et d'appliquer une chaîne de traitement pour les documents anciens de Gallica en diachronie longue, des premiers manuscrits français aux imprimés révolutionnaires. Au-delà de la simple extraction de texte en masse, nous améliorerons les jeux de données d'entraînement pour l'apprentissage machine, les outils et les modèles déjà existants pour l'extraction, l'annotation et la diffusion de données richement annotées provenant des collections de la Bibliothèque nationale de France (BnF).
 
 ## Script AltoToTEI
 Dans le cadre du projet, Kelly Christensen a développé un script python permettant de créer à partir des images de la BnF des textes pré-éditorialisé en XML-TEI. Le script est présent actif dans les différents dépôts et permet de générer des fichiers XML TEI d'exemple à partir des données d'entrainement.
