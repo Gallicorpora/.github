@@ -9,7 +9,7 @@ Dans le cadre du projet, Kelly Christensen a développé un script python permet
 
 ## Données HTR
 
-Les données se trouvent dans les différents répertoires(classé par siècle) du projet au chemin ‘./data/*/*.xml‘.
+Les données se trouvent dans les différents répertoires(classé par siècle et parfois type de documents) du projet au chemin ‘./data/*/*.xml‘.
 Elles sont au format alto (v.4) et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont cataloguées sur HTR-United (https://htr-united.github.io). Les données ont été produites à l'aide de l'interface eScriptorium.
 
 ## Données lemmatisation 
